@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631767060353",
+    "firebase_url": "https://uber-clone-7001a-default-rtdb.firebaseio.com",
+    "project_id": "uber-clone-7001a",
+    "storage_bucket": "uber-clone-7001a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631767060353:android:c4cc4c2f4af61ea2a4e280",
+        "android_client_info": {
+          "package_name": "com.rashmi.driversapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631767060353-8aque4ha7ahkh2q7g3qvsv8jtiiri9fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm3ugVS1brN65eLwByDK9xUG3ng-CdzNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631767060353-8aque4ha7ahkh2q7g3qvsv8jtiiri9fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
